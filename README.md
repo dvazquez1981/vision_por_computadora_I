@@ -6,7 +6,7 @@ En este repositorio se incluyen los trabajos prácticos, ejercicios y desarrollo
 
 ## Trabajos prácticos
 
-* [TP1 — Trabajo Práctico 1](./tp_vision/tp1/)
+* [TP1 — Trabajo Práctico 1](./tp1/)
 * TP2 — Próximamente
 * TP3 — Próximamente
 
